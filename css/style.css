@@ -1,0 +1,13 @@
+* {
+    outline: 1px red dotted;
+}
+
+/* Class for Images */
+/* ---------------------------------------------- */
+.movierank {
+    width: 350px;
+}
+
+.birthdayinvite{
+    width: 350px;
+}
